@@ -48,8 +48,24 @@ console.log(z)
 
 // 1.5 Assignment: Brackets, Braces and Parentheses
 
-
+var a = function(){
+alert('Statement 1');
+alert('Statement 2');
+}
+console.log(a)
 
 // 1.6 Assignment: Data Types
+var d = "Darby";
+console.log(d)
+//string//
+
+var a = 29;
+console.log(a)
+//number//
+
+var t = true;
+console.log(t)
+//boolean//
 
 // 1.7 Assignment: Practicing JavaScript basics
+
