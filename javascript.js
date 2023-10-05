@@ -69,3 +69,9 @@ console.log(t)
 
 // 1.7 Assignment: Practicing JavaScript basics
 
+var a = 4;
+var b = 3;
+var c = 5;
+
+var area = (a * b / 2);
+console.log(area)
